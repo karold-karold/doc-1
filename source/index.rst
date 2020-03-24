@@ -3,8 +3,8 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Welcome to ONAT documentation's documentation!
-==============================================
+Збірник інструкцій та керівних вказівок щодо роботи із IT-сервісами ОНАЗ ім. О.С. Попова!
+=========================================================================================
 
 .. toctree::
    :maxdepth: 2
